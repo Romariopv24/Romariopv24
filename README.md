@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romariopv24
 - 👀 I’m interested in frontend development and technology
-- 🌱 I’m currently learning english, currently B1
+- 🌱 I’m currently learning english, level B1
 - 💞️ I’m looking to new experencies and job opportunities 
 
 
