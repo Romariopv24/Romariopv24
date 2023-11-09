@@ -1,6 +1,6 @@
 - 👋 Hello dear visitor, I’m @Romariopv24:
 
-I'm a Frontend developer with more than 1 year of experience, making application projects in HTML, CSS, Javascript, currently studying and practicing with technologies such as Vue and React.js
+Im a frontend developer with more than 1 year of experience, making application in React.js with technologies such as Typescript, CSS frameworks and WEB3 technology.
   
 You can visit my personal landing page to see my work :) :
 
