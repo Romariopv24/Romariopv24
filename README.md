@@ -5,6 +5,9 @@ Im a frontend developer with more than 1 year of experience, making application 
 You can visit my personal landing page to see my work :) :
 
   https://romacode-41753.web.app/
+
+  LinkedIn:
+  https://www.linkedin.com/in/romario-parra-7865921b4/
   
 
 <!--
