@@ -1,10 +1,6 @@
 - 👋 Hello dear visitor, I’m @Romariopv24:
 
-Im a frontend developer with more than 1 year of experience, making application in React.js with technologies such as Typescript, CSS frameworks and WEB3 technology.
-  
-You can visit my personal landing page to see my work :) :
-
-  https://romacode-41753.web.app/
+ull-Stack Software Developer programming in JavaScript/TypeScript, using its Front-End Libraries and Frameworks in React.js-Next.js, CSS, and Back-End development with Express.js and MongoDB.
 
   LinkedIn:
   https://www.linkedin.com/in/romario-parra-7865921b4/
