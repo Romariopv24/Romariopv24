@@ -1,6 +1,6 @@
-- 👋 Hello dear visitor, I’m @Romariopv24:
+- 👋 Hello There, I’m @Romariopv24:
 
-Full-Stack Software Developer with 2 years of experience programming in JavaScript/Typescript/C# using its Front-End Libraries and Frameworks in React.js Next.js, Vue.js, CSS, Back-End development Express.js, Python-Flask, MongoDB and SQL.
+Full-Stack Software Developer with 2 years of experience programming in JavaScript/Typescript/C# using its Front-End Libraries and Frameworks in React.js Next.js, Vue.js, Angular, Astro, CSS, Back-End development Express.js, Python-Flask, MongoDB and SQL.
 
   LinkedIn:
   https://www.linkedin.com/in/romario-parra-7865921b4/
